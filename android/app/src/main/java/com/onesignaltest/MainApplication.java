@@ -1,4 +1,4 @@
-package com.onesignaltest;
+package com.testnative;
 
 import android.app.Application;
 

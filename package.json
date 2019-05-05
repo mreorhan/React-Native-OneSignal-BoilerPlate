@@ -1,5 +1,11 @@
 {
-  "name": "onesignaltest",
+  "name": "react-native-onesignal-boilerplate",
+  "author": {	
+    "name": "mreorhan"	
+  },	
+  "repository": {	
+    "url": "https://github.com/mreorhan/React-Native-OneSignal-BoilerPlate"	
+  },
   "version": "0.0.1",
   "private": true,
   "scripts": {
